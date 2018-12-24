@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Orest/CLionProjects/untitled10/Tree.cpp
+Tree.h
+C:/Users/Orest/CLionProjects/untitled10/Tree.h
+
+C:/Users/Orest/CLionProjects/untitled10/Tree.h
+iostream
+-
+string
+-
+
+C:/Users/Orest/CLionProjects/untitled10/main.cpp
+Tree.h
+C:/Users/Orest/CLionProjects/untitled10/Tree.h
+
